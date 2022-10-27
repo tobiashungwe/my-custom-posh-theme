@@ -1,5 +1,5 @@
 {
-    "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
+    "$schema": "https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/dracula.omp.json",
     "blocks": [
       {
         "alignment": "left",
